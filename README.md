@@ -12,7 +12,8 @@ In order to ingest JSON data, we need to connect to the public S3 bucket and ing
   Architecture Diagram:
 
 
-  ![image](https://github.com/Saurify27/AzureDataEngg_SmartVehicles_project/assets/70844496/7c5f5161-6288-46e3-9af3-f26d9534070a)
+![image](https://github.com/Saurify27/AzureDataEngg_SmartVehicles_project/assets/70844496/3f8842a2-f76b-4a28-8704-575a2eb6f142)
+
 
 
 
